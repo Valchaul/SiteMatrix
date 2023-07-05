@@ -1,0 +1,33 @@
+body {
+	font-family: monospace;
+	background-color: Black;
+	margin: 0px;
+}
+
+.ctrue {
+	color: #03A062;
+	font-weight: bold;
+}
+
+.cfalse {
+	color: #015030;
+}
+
+
+.cinfo {
+	color: Red;
+}
+
+
+#bgTxt {
+	display: inline;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: justify;
+	font-size: 1.20vw;
+	line-height: 1.9vh;
+	white-space: nowrap;
+	letter-spacing: -0.2vw;
+}
+
